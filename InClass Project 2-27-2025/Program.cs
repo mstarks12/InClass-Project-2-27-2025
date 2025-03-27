@@ -10,7 +10,7 @@ namespace InClass_Project_2_27_2025
     {
         static void Main(string[] args)
         {
-           
+            Console.WriteLine("Pranavi Nallari and Marc Starks");
         }
     }
 }
